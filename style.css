@@ -7,8 +7,7 @@ body{
     height: 100vh;
     justify-content: center;
     background: url("https://images.unsplash.com/photo-1619583348697-a14e8f307f7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
-
-    background-size: cover;
+     background-size: cover;
 }
 h2{
     text-transform: uppercase;
